@@ -25,7 +25,7 @@ const Login = () => {
                     placeholder="Enter Password" 
                     />
                 </div>
-                
+
                 <button type="submit" className="w-full bg-blue-500 text-white py-2">Entrar</button>
             </form>
             </div>
